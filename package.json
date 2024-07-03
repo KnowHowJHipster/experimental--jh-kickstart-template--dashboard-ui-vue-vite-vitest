@@ -4,7 +4,6 @@
   "private": true,
   "description": "Description for Dashboard",
   "license": "UNLICENSED",
-  "type": "module",
   "scripts": {
     "build": "npm run webapp:prod --",
     "build-watch": "concurrently 'npm run webapp:build:dev -- --watch'",
