@@ -112,7 +112,7 @@
     "vite-plugin-static-copy": "1.0.6",
     "vitest": "2.0.5",
     "vitest-sonar-reporter": "2.0.0",
-    "wait-on": "7.2.0"
+    "wait-on": "8.0.1"
   },
   "cacheDirectories": [
     "node_modules"
